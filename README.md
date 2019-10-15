@@ -20,7 +20,7 @@ can be explained by the following keywords.
 
 ### LLFC phase
 
-![LLFC](images/llfc.png)
+![llfc](https://user-images.githubusercontent.com/56424495/66801503-437bf800-ef54-11e9-85fa-999e36925086.png)
 
 ### LLFC pre-phase
 
@@ -48,7 +48,7 @@ the length of the signature is used for evaluation on GBIS.
 
 ### LLFC select algorithm
 
-![LLFC Select](images/llfc_select.PNG)
+![llfc_select](https://user-images.githubusercontent.com/56424495/66801555-70c8a600-ef54-11e9-97d9-3275b21dd19a.png)
 
 ### Maximum tx
 
@@ -205,7 +205,8 @@ WAGON manages the state database created by execution of glogic, and provides
 integrity information to the gbrick main process.
 
 ### WAGON Architecture
-![WAGON Architecture](images/wagon_architecture.jpg)
+
+![wagon_architecture](https://user-images.githubusercontent.com/56424495/66801560-745c2d00-ef54-11e9-9e3e-edf401438acc.jpg)
 
 ### WAGON Components
 - glogic cli tools
