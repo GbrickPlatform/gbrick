@@ -4,7 +4,7 @@ aioamqp == 0.13.0
 ecdsa == 0.13
 plyvel == 1.0.5
 pycrypto == 2.6.1
-aiohttp == 3.5.4
+aiohttp == 3.7.4
 aiohttp-json-rpc == 0.12.1
 psutil
 quart == 0.9.1
